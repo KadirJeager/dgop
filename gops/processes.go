@@ -14,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/AvengeMedia/dgop/models"
 	"github.com/danielgtaylor/huma/v2"
+	"github.com/duxlabs-dev/dux-gop/models"
 	"github.com/shirou/gopsutil/v4/cpu"
 	"github.com/shirou/gopsutil/v4/process"
 )

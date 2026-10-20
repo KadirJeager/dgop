@@ -1,11 +1,11 @@
-module github.com/AvengeMedia/dgop
+module github.com/duxlabs-dev/dux-gop
 
 go 1.26.0
 
 // toolchain go1.24.6
 
 require (
-	github.com/AvengeMedia/dankgo v1.6.2
+	github.com/duxlabs-dev/dux-go v0.0.0-00010101000000-000000000000
 	github.com/caarlos0/env/v11 v11.4.1
 	github.com/charmbracelet/bubbles v1.0.0
 	github.com/charmbracelet/bubbletea v1.3.10

@@ -85,7 +85,7 @@
 
             meta = {
               description = "API & CLI for System Resources";
-              homepage = "https://github.com/AvengeMedia/dgop";
+              homepage = "https://github.com/duxlabs-dev/dux-gop";
               mainProgram = "dgop";
               binaryNativeCode = true;
               license = lib.licenses.mit;
