@@ -9,7 +9,7 @@
 
 [![Documentation](https://img.shields.io/badge/docs-duxlabs.dev-9ccbfb?style=for-the-badge&labelColor=101418)](https://duxlabs.dev/docs/dgop)
 [![GitHub Release](https://img.shields.io/github/v/release/duxlabs-dev/dux-gop?style=for-the-badge&labelColor=101418&color=a6da95)](https://github.com/duxlabs-dev/dux-gop/releases)
-[![Arch Linux](https://img.shields.io/archlinux/v/extra/x86_64/dgop?style=for-the-badge&labelColor=101418&color=f5a97f)](https://archlinux.org/packages/extra/x86_64/dgop/)
+[![Arch Linux](https://img.shields.io/archlinux/v/extra/x86_64/dux-gop?style=for-the-badge&labelColor=101418&color=f5a97f)](https://archlinux.org/packages/extra/x86_64/dux-gop/)
 [![GitHub License](https://img.shields.io/github/license/duxlabs-dev/dux-gop?style=for-the-badge&labelColor=101418&color=b9c8da)](https://github.com/duxlabs-dev/dux-gop/blob/master/LICENSE)
 
 </div>
